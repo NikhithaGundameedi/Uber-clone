@@ -195,10 +195,21 @@ align-items: center;
       font-size: 22px;
 }
 .sec4{
-    
+    min-height: 300px;
+    margin-top: -560px;
+    margin-bottom: 100px;
     background-image: url('image.webp');
 }
+.sec4 h1{
+    padding-top: 30px;
+    padding-left: 430px;
+}
+.sec4 p{
+    padding-left: 430px;
+}
 .btnn{
+    margin-top:20px;
+    margin-left: 430px;
     color:white;
 width:100px;
 height:60px;
